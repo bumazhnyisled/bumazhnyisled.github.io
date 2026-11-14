@@ -1,0 +1,237 @@
+	[Home] [Databases] [World Law] [Multidatabase Search] [Help] [Feedback] [DONATE]
+
+England and Wales High Court (Queen's Bench Division) Decisions
+
+
+You are here: BAILII >> Databases >> England and Wales High Court (Queen's Bench Division) Decisions >> VIS Trading Co Ltd v Nazarov & Ors [2015] EWHC 3327 (QB) (18 November 2015)
+URL: https://www.bailii.org/ew/cases/EWHC/QB/2015/3327.html
+Cite as: -[-2-0-1-5-]- -E-W-H-C- -3-3-2-7- -(-Q-B-)-, -[-2--1-5-]- -E-W-H-C- -3-3-2-7- -(-Q-B-)-
+
+[New search] [Printable RTF version] [Help]
+
+		Neutral Citation Number: [2015] EWHC 3327 (QB)
+		Case No: HQ10X00876
+
+IN THE HIGH COURT OF JUSTICE
+QUEEN'S BENCH DIVISION
+
+
+		Royal Courts of Justice
+Strand, London, WC2A 2LL
+		18/11/2015
+
+B e f o r e :
+
+Mrs Justice Whipple
+____________________
+
+Between:
+
+	VIS Trading Co Ltd
+	Claimant
+
+	- and -
+	
+
+	Nazarov and ors
+	Defendant
+
+
+____________________
+
+Mr A Gunning QC and Mr R Chatterjee (instructed by Watson Farley & Williams LLP) for the Claimant
+Mr A Milner (instructed by Pillsbury Winthrop Shaw Pittman LLP) for the Defendant
+Hearing dates: 6 November 2015
+____________________
+
+HTML VERSION OF JUDGMENT
+____________________
+
+Crown Copyright ©
+
+Mrs Justice Whipple :
+
+Introduction
+
+This is the Claimant's application for the First Defendant to be committed to prison for contempt of court. The Claimant's application is dated 17 September 2015. The contempt relied on is the First and Second Defendants' failure to comply with the order for disclosure made by Singh J on 21 May 2015.
+
+Background
+
+The underlying proceedings arise out of claims made by the Claimant against the first two Defendants. The Second Defendant is a company controlled by the First Defendant, through which the First Defendant conducts his business activities.
+
+The underlying action was brought by the Claimant for repayment of loans made by the Claimant to companies controlled by the First Defendant; the Claimant argued that the First Defendant was personally liable for repayment of those loans, as well as the relevant company. In March 2013, Leggatt J gave judgment for the Claimant against the First and Second Defendants (and others), in the amount of US$ 15.4 m and US$ 27.2 m respectively, following a 7 day trial. Leggatt J did not accept the First Defendant's evidence, which he found lacked credibility.
+
+Neither Defendant has yet paid a penny towards satisfaction of that judgment debt, although the Claimant has received around US$5.9m from the Third Defendant, which satisfies a part of the amount outstanding.
+
+It is now over 2 years later, and there is interest to add to the judgment debt, as well as continuing and mounting legal costs. The overall amount due to the Claimant is substantial, and increasing.
+
+On 14 March 2013, a post judgment freezing order was made by Supperstone J. That has been continued on a number of occasions by Court order. The Claimant's efforts to obtain information about the Defendants' assets and means, in order to enforce judgment against them, have led to a series of ancillary orders.
+
+Ultimately, the Claimant applied for an oral examination which was directed by Court order and which took place before Mr David Donaldson QC (sitting as a deputy High Court Judge) on 13 June 2014, before subsequently being restored to be heard before Singh J (pursuant to CPR Part 71) in May 2015 (the examination hearing having been adjourned by Mr Donaldson QC and an order for disclosure of documents having been made by Supperstone J on 27 November 2014).
+
+During the hearing, which lasted two days, the First Defendant was called to give evidence by video link from Uzbekistan. I have been shown extracts from the lengthy transcript of that hearing, and it is clear that the questions and answers ranged widely over the First Defendant's business interests. At the end of the hearing, Singh J made the "21 May 2015 Order".
+
+The 21 May 2015 Order
+
+By the 21 May 2015 Order, which was endorsed with a penal notice, Singh J required the First and Second Defendants to disclose the following documents:
+
+"2. Save where the same have already been disclosed by the First or Second Defendant to the Claimant, the First Defendant and the Second Defendant do by 4.00pm on 31 July 2015 disclose to and serve copies on the Claimant's solicitors of any documents in their possession, custody or control which are in one or more of the following categories:
+a) documents recording the details of any bank account held by the First Defendant or Second Defendant, or held by any company which is owned legally or beneficially by the First Defendant or the Second Defendant;
+b) documents recording the entitlement of the First Defendant or the Second Defendant, or of any company which is owned legally or beneficially by the First Defendant or the Second Defendant, to receive payment from any third party;
+c) documents recording the details of any real property owned legally or beneficially by the First Defendant or the Second Defendant, or owned by any company which is owned legally or beneficially by the First Defendant or the Second Defendant;
+d) documents recording the details of any other property owned legally or beneficially by the First Defendant or the Second Defendant, or owned by any company which is owned legally or beneficially by the First Defendant or the Second Defendant;
+e) documents recording the entitlement of the First Defendant or Second Defendant, or the entitlement of any company which is owned legally or beneficially by the First Defendant or the Second Defendant, to real property;
+f) documents recording the entitlement of the First Defendant or Second Defendant, or the entitlement of any company which is owned legally or beneficially by the First Defendant or the Second Defendant, to any other property;
+g) documents referring to any of the following entities:
+i) Chemical Consult Corp.
+ii) Energy Machine LLP.
+iii) Thornfield Enterprises Limited.
+iv) Lorgo Holding Inc.
+v) Opic Holdings Limited.
+vi) Rafico Engineering Limited.
+vii) Douglas Company Services Limited.
+viii) Commonwealth Trust Limited.
+ix) Jaxware Holdings Limited.
+x) Topiczone Holdings Limited (or Tropiczone Holdings Limited).
+xi) Synecta holding a.s.
+xii) Synecta holding a.s. (Czech Republic)
+xiii) Synecta holding a.s. (Slovak Republic)
+h) documents referring to any of the following addresses:
+i) 44A The Green, Warlingham, Surrey, CR6 9NA.
+ii) Regent House, 316 Beulah Hill, London, SE19 3HF.
+iii) Drake Chambers, P.O. Box 3321, Road Town, Tortola, British Virgin Islands.
+i) documents referring to any of the following people and which relate to the ownership of any of the entities in sub-paragraph (g) above:
+i) Mr Albert Galimov.
+ii) Mr Farrukh Fayzulloev.
+iii) Mr Juris Savickis.
+iv) Mr Baxtiyor Qayumovich Choriyev.
+v) Mr Henry Alexander Rosas Morales.
+In respect of e-mails, the First Defendant and the Second Defendant shall disclose and produce all e-mails within the above categories dated on or after 1 January 2012. This is to include, in particular, e-mails sent from or to the e-mail address shamuradovrustam@gmail.com."
+Thus the disclosure ordered was wide-ranging, and extended to documents in the possession, custody or control of the First or Second Defendant, which fell within any one of those categories. There was no test of relevance incorporated into the 21 May 2015 Order.
+
+Subsequent Events
+
+The 21 May 2015 Order was served on the Defendants' solicitors, Pillsbury Winthrop Shaw Pittman LLP ("Pillsbury") on 22 May 2015 in accordance with the provision for alternative service contained at para 8 of the 21 May 2015 Order. I am satisfied, and so I find, that the 21 May 2015 Order was properly served.
+
+However, no disclosure was provided by 31 July 2015. On 31 July 2015, the last day for compliance, the Defendants issued an application for a 28 day extension of time. That application was heard by Master Leslie on 7 August 2015 and dismissed by him with indemnity costs. Still no disclosure was provided, even beyond the date sought for the extension.
+
+The Claimant issued the application for committal for contempt on 17 September 2015, and the hearing was fixed for 6 November 2015, as was noted on the application notice. The application was served on the Defendants' solicitors by order dated 25 September 2015 (and again I am satisfied that the application was properly served).
+
+On 30 October 2015, with the hearing scheduled for 6 November 2015, just 5 working days later, Pillsbury served evidence on the Claimant. That evidence consisted of the First Defendant's Fifth Affidavit dated 29 October 2015 (in Russian, accompanied by a translation into English) together with exhibit ASN5, and five witness statements from friends and colleagues of the First Defendant.
+
+The Claimant examined the further disclosure contained in ASN5, and concluded that it contained only four documents additional to the disclosure which the Defendants had already made. A critique of the First Defendant's Fifth Affidavit was set out in the ninth affidavit of Tiana Marie Morales dated 2 November 2015 (solicitor of Watson Farley & Williams LLP, solicitors for the Claimant). Her affidavit was sworn on 2 November 2015, the first working day after receipt of the First Defendant's Fifth Affidavit and accompanying documents. Ms Morales attached a table showing the various categories of disclosure ordered, listing compliance to date (both before and since the 21 May 2015 Order), referred to as TMM9.
+
+On 4 November 2015, Katerina Woolhouse, solicitor at Pillsbury acting for the First and Second Defendants, filed her third witness statement addressing certain issues arising out of the recent exchange of evidence.
+
+The Defendants' skeleton was filed on 4 November 2015, taking the line that in light of the recent affidavit and witness statements, the First Defendant had now complied with the 21 May 2015 Order (at least, to the extent that he was able to do so). The Claimant's skeleton was filed on 5 November 2015, maintaining the Claimant's case that there had not been compliance with the 21 May 2015 Order, despite the recent disclosure and evidence, and seeking committal of the First Defendant for contempt.
+
+The way in which the contempt was put in the application notice, and maintained by the Claimant in their skeleton and at the hearing before me, was as follows:
+
+"The First and Second Defendants' failure to comply in any respect with paragraph 2 of the Order of Mr Justice Singh dated 21 May 2015 (the "21 May 2015 Order"). Specifically, not a single copy document was disclosed or produced to the Claimant by 4.00pm on 31 July 2015 as ordered by paragraph 2 of the 21 May 2015 Order."
+The application notice had also complained that:
+
+"Furthermore, to date no disclosure pursuant to paragraph 2 of the 2015 Order has been provided to the Claimant at all, even since 31 July 2015."
+By the time of the hearing, of course, the Defendants had made some disclosure pursuant to paragraph 2 of the 21 May 2015 Order, so it was no longer correct to contend that there had been no disclosure, although that had been the position at the time that the application was issued.
+
+On 10 November 2015, four days after the hearing took place, I received without warning an email from Pillsbury attaching the First Defendant's Sixth Affidavit and various exhibits. I invited submissions from both parties as to the admissibility of this further evidence, and will address that issue later.
+
+First Defendant's evidence at the hearing
+
+In his fifth affidavit, the First Defendant offered his sincere apologies to the Court for not being able to "ensure full compliance with the Disclosure Order of 21 May 2015 until now". He said that he had made efforts to comply during the time required, but he did not retain physical documents personally, nor did he use a computer or email, or have any other electronic filing system, therefore any documents created or received on his own behalf or on behalf of the Second Defendant would be in the custody of various individuals who assisted him in his affairs, whom he had asked to search for the documents. Three letters from such individuals were attached in ASN5. Two of them said that "no relevant documents" had been revealed; the third said that two documents had been found, which were attached.
+
+Together with two other documents which the First Defendant volunteered, this is the full extent of disclosure offered pursuant to the 21 May 2015 Order as matters stood at the hearing.
+
+The five witness statements were from the following individuals, all of whom were business associates or friends of the First Defendant: Albert Galimov (undated) (who said he controlled a company called Energy Machine LLP); Farrukh Fayzulloev dated 20 October 2015; Rustam Shamuradov dated 22 October 2015; Juris Savackis dated 28 October 2015 (who said he owns the companies referred to as Synecta); and Bakhtior Choriev dated 28 October 2015 (who says he is the director of OPIC Engineering).
+
+First Defendant's Attendance at the hearing
+
+The First Defendant was ordered to attend the hearing and did so by video-link from Uzbekistan. An interpreter was present and translated the proceedings for the First Defendant's benefit during the morning. At the short adjournment, the Defendants' Counsel, Mr Milner, asked if the First Defendant could be excused from further attendance in the afternoon. I indicated that I could not force the First Defendant to attend if he did not want to, but before he decided whether to continue attendance or not, he should be aware (and so I asked Mr Milner to make absolutely clear to the First Defendant) that if he chose not to attend in the afternoon (i) he would be unable to give Mr Milner any assistance or instructions, and I would be unlikely to adjourn to give Mr Milner time to speak to the First Defendant in the event that some unforeseen issue arose; and (ii) the First Defendant would be unable to give oral evidence, that he was entitled to give oral evidence (although could not be compelled), and that if he chose not to give oral evidence, it would be open to me to draw an adverse inference against him. This discussion was translated simultaneously into Russian, while the First Defendant remained on the video-link.
+
+When we resumed, Mr Milner said that he had made these two points clear to the First Defendant (although he did not agree with me on (ii) – an issue I shall deal with later), that the First Defendant had accepted the possible disadvantage in not being present, on account of either or both points, and had nonetheless asked to be excused. We therefore proceeded in the afternoon in the First Defendant's absence.
+
+In permitting this course, I had regard to the various considerations outlined by Roth J in JSC BTA Bank v Alexander Yu Stepanov [2010] EWHC 794 (Ch). This Defendant did not want to attend and his absence was voluntary; he was represented by solicitors and counsel at the hearing; he had been warned of the consequences of non-attendance; and no adjournment was requested on his behalf. For those reasons, it was right to continue this hearing, which had been listed on notice, in the Defendant's absence.
+
+Scope of the hearing
+
+There was a dispute about the scope of the hearing. In light of the Defendants' evidence, and particularly the admission by the First Defendant that he had failed to comply with the 21 May 2015 Order, Mr Milner argued that this was a sentencing hearing only, and that the only issue before me was the appropriate sentence for the Defendants' past failures, which were admitted, and which (he said) had now been rectified; further, he argued that the First Defendant's admission, possibly read with the First Defendant's evidence that he had now fully complied with the 21 May 2015 Order, in effect set the limit of what the First Defendant could be sentenced for at this hearing. The Claimant disagreed. Mr Gunning QC and Mr Chatterjee, who appeared for the Claimant, reminded me of the Practice Direction, Committal for Contempts: Open Court [2015] 1 WLR 2195, Senior Courts, paragraph 13, which requires that I state in open Court, at the end of the hearing, "in general the nature of the contempt of court in respect of which the committal order … is being made". I was also taken to various authorities, including JSC BTA Bank v Solodchenko and others (No 2) [2011] EWCA Civ 1241, [2012] 1 WLR 350, where the Court distinguished between the element of sentence to reflect punishment for past failures, and the element which reflects ongoing non-compliance (and which might be remitted if there was prompt and full compliance thereafter - see paragraphs [55]-[56]). Mr Gunning submitted that the Court was required to distinguish between those two elements in sentencing, and thus was required to determine whether there was continuing non-compliance or whether this was a case of past breach alone.
+
+I prefer the Claimant's submissions on this point. Given the emphasis on establishing whether there is continuing non-compliance in Solodchenko (No 2), and the Practice Direction to similar effect, the Court must make findings about whether one or both aspects are proven, before arriving at the appropriate sentence (and giving reasons for that sentence, in compliance with the Practice Direction). If there is a dispute about whether there is continuing non-compliance, that issue must be resolved on the evidence.
+
+In this case, the extent to which the Defendants are in continuing breach is in issue. In resolving that factual issue, Mr Milner suggests that it is for the Claimant to seek the Court's order to allow cross-examination of the First Defendant (as contemnor). He submits as follows in his skeleton: "insofar as [the Claimant] might wish to cross examine [the First Defendant] as to the completeness of his disclosure, that is not permissible without a further application supported by evidence justifying the proposed cross-examination: see JSC BTA Bank v Solodchenko [2011] 1 WLR 906 at [31]-[36]". Mr Milner says that because no application has been made, no evidence can be adduced from the First Defendant, and the Court cannot therefore hold his silence against him. This is, in effect, to suggest that the Court is fixed with the First Defendant's affidavit in which he says that he has now complied with the 21 May 2015 Order (and to repeat Mr Milner's point about the limited ambit of the hearing, addressed and rejected above, in a different way). Mr Milner argued that this was precisely what Proudman J had decided in Solodchenko (No 2). Mr Gunning disputed these submissions on the basis that they were procedurally incorrect, noting that Solodchenko (No 2) pre-dated CPR 81 which came into force on 1 October 2012 by virtue of the Civil Procedure (Amendment No 2) Rules 2012 [SI 2012/2208]. He drew my attention to CPR 81.28 (2) which provides that the respondent to any committal application is entitled to give oral evidence, and if doing so may be cross-examined; but importantly, also to CPR 81.28(3) which provides that the Court "may require or permit any party or other person (other than the respondent) to give oral evidence at the hearing". Thus, he said, the respondent cannot be compelled to give oral evidence. It followed that it was not for the Claimant to seek any order to cross-examine, because the alleged contemnor, as respondent to the application, has a right to remain silent; but the Court can draw an adverse inference from silence, as set out in the White Book at CPR 81.28.4:
+
+"A person accused of contempt, like the defendant in a criminal trial, has the right to remain silent (Comet Products UK Ltd v Hawkex Plastics Ltd [1971] 2 QB 67, CA). It is the duty of the court to ensure that the accused person is made aware of that right and also the risk that adverse inferences may be drawn from his silence (Inplayer Limited v Thorogood [2014] EWCA Civ 1511, November 25, 2014, CA, unrep., at para.41)…"
+I agree with the Claimant's submissions on this point. The fact that the First Defendant has produced some documents, in purported compliance with the 21 May 2015 Order, does not determine the compliance issue in the First Defendant's favour; nor does it require the Claimant to make any application for cross-examination. Rather, the First Defendant is on notice of the Claimant's case that the Defendants have failed to comply with the 21 May 2015 Order, and the Claimant is entitled to continue to advance that case, even in the face of purported compliance by the First Defendant since the date of the application. The burden of proof remains on the Claimant throughout, to the criminal standard, and the Claimant can invite the Court to conclude, on the basis of all the evidence in the case, that the Defendants have not yet complied with the 21 May 2015 Order. If the contemnor chooses to remain silent in the face of that dispute, the Court can draw an adverse inference against him, if the Court considers that to be appropriate and fair, and recalling that silence alone cannot prove guilt. This is not to put the burden of proof on the First Defendant; far from it, the burden remains on the Claimant. Proudman J was dealing with a different situation in Solodchenko (No 2), where she had already held a fact finding hearing and found Mr Kythreotis to be in contempt, before he subsequently purported to comply with the order; and did not concern the application of rules now clearly now set out in CPR 81.
+
+Past Breach
+
+The fact of past breach is admitted. Compliance was due by 31 July 2015, which gave the Defendants 10 weeks from the date of Singh J's Order. It is plain from the chronology of events that the Defendants made very little effort to comply in the period allowed. It appears that the First Defendant instructed his business associates to look for documents only on 10 July 2015 (Mr Firuzjon and Mr Uktam) or 20 July 2015 (Ms Osadchaya), just shortly before the Court-imposed deadline expired. The requests to business associates were selective, referring to some but not all categories of documents subject to the 21 May 2015 Order. There is no evidence before me to suggest that any effort was made to locate documents falling in the other categories of documents. Meanwhile, a large body of documents held by Clyde & Co, to the order of another associate, Mr Sharipov, was not pursued with any vigour during this period.
+
+Even after 31 July 2015 (the due date for compliance with the 21 May 2015 Order), progress was slow. Nothing at all happened by 28 August 2015, the date to which the Defendants had sought an extension (refused by Master Leslie). It was only, so it seems, service of the committal application on 25 September 2015 which prompted some progress. The searches by the business associates were all reported in the later part of October 2015, and some correspondence took place with Clyde & Co in relation to the Sharipov documents. This led to the Defendants' evidence served on 30 October 2015, just before the committal hearing, at the 11th hour.
+
+This history is one of almost complete disregard for the 21 May 2015 Order and the deadline imposed by it; such efforts as were made to comply were late by some months, were incomplete, and were made at the last minute before the committal hearing.
+
+Continuing Breach
+
+The Claimant does not seek to set out a comprehensive analysis of what is missing (how could it, given that the point of the 21 May 2015 Order was to establish what was there, and absent compliance, the Claimant cannot know what is missing). Rather, the Claimant points to a number of categories of documents where the Court can be satisfied to the requisite criminal standard that disclosure to date has been incomplete. From that demonstrated default, the Claimant invites me to draw such inference as I consider to be appropriate – again, to the criminal standard – about the extent of the Defendants' compliance to date, more generally.
+
+The First Defendant maintains that he has disclosed all that is available. I must consider, on all the evidence, whether I accept that. If I conclude that the First Defendant is or might be telling the truth, then I could not be satisfied to the criminal standard of the Claimant's case on continuing breach, and I would have to sentence on the basis of past breaches only.
+
+I consider first of all the First Defendant's Fifth Affidavit. There are difficulties with this evidence, on its face. The First Defendant says that his business associates could not locate any documents beyond the two disclosed by Ms Osadchaya. But Mr Fayzulloev, Mr Firuzjon and Mr Uktam all say in their letters contained in ASN5 that they have been unable to locate any "relevant" documents – but 'relevance' was not part of the 21 May 2015 Order, and it is not clear what these individuals thought they were looking for. Ms Osadchaya says that she only found two documents which "were not previously disclosed", but she does not explain how she searched, or where she found these two documents, or where the other documents which have already been disclosed were kept in her files or archives, so the scope of her search is equally unclear. The First Defendant also says that he does not keep copies of any documents; that may be so, but he plainly has access to archives of documents (or his business associates do) because he refers to an "archive" in his affidavit (paragraph 3.6). The fact that he contacted various other business associates and asked them to search for given categories of documents suggests that he thought those associates did hold documents coming within the various categories or had access to the relevant archives, so it is odd for them, all but one, to come back with nothing at all. This is unsatisfactory.
+
+I must also deal with the First Defendant's Sixth Affidavit, served some days after the hearing. The First Defendant submits that I should have regard to that Affidavit on the basis that the hearing was deliberately left "part heard"; because this evidence goes directly to the issue of compliance with the 21 May 2015 Order; and because the contents of the Sixth Affidavit address issues which arose at the hearing on 6 November 2015 and I should base my decision on up-to-date information. The Claimant objects to this evidence, on the basis that it should have been adduced before the Court at the hearing and there is no basis to admit it now; but if it is admitted, I should accord it little weight given that the First Defendant has not made himself available for cross-examination; and anyway it makes no difference to the Claimant's case because the First Defendant is, beyond any reasonable doubt, in continuing non-compliance with the 21 May 2015 Order.
+
+I have decided to admit the First Defendant's Sixth Affidavit as part of the evidence before me: this hearing is part-heard, and it is preferable that I take into account everything that the First Defendant wishes to say to me in reaching my decision on the issues currently in dispute. The status of the Sixth Affidavit is similar to the First Defendant's Fifth Affidavit, namely, written and sworn evidence presented to the Court; but the fact is that it has not been tested in cross examination, in circumstances where the contents of it go directly to issues which were the subject of submissions by both parties at the hearing, and where the First Defendant had the opportunity to give oral evidence about these matters and be cross-examined but chose for his own reasons not to attend. That means that I accord it little weight where it conflicts with other evidence in the case.
+
+Against that background, I turn to consider certain specific categories of documents, to establish the extent of compliance.
+
+(1) The Sharipov documents: these are documents held by Clyde & Co, who act for Mr Sharipov. Mr Sharipov manages the First Defendant's bank accounts and is a close associate. Mr Sharipov corresponded with the Court, and the Claimant's solicitors, on behalf of the First Defendant during the course of the hearing before Leggatt J. It is clear from correspondence between Pillsbury and Clyde & Co (who act for Mr Sharipov) that a substantial body of documents is held electronically by Mr Sharipov, amongst which are documents covered by the 21 May 2015 Order.
+
+Clyde & Co says that the cost for them to review the documents would be around £210,000. That cost issue was raised at the hearing before Singh J, and he made the 21 May 2015 Order in spite of that submission; the issue of cost of compliance has therefore already been considered by the Court.
+
+The last letter in the sequence from Clyde & Co, dated 28 October 2015, as matters stood at the hearing, said this:
+
+"Mr Sharipov does not wish to appear uncooperative and we are instructed that he may be prepared to consider proposals for making electronic copies available to you, provided only it is agreed that we receive sufficient funds on account from your clients to cover the cost of the exercise of identifying appropriate material, before any work is undertaken).
+
+I was not shown any answer to this letter, and it appeared that the First Defendant had not pursued the offer of compromise as at the date of the hearing. I invited Mr Milner and Pillsbury to investigate this. Since the hearing I have been sent a letter from Clyde & Co dated 10 November 2015 offering further terms for producing the Sharipov documents. That letter confirms that there is a substantial amount of documents held, coming under the 21 May 2015 Order. The disclosure of this category of documents is clearly outstanding as at today's date and the non-compliance is continuing.
+
+I hope that these documents will now be disclosed. If that occurs, that would be a strong mitigating factor when it comes to sentence, because it would demonstrate the First Defendant's willingness to comply with the 21 May 2015 Order.
+
+(2) Bank Accounts. Paragraph 2(a) of the 21 May 2015 Order extends to "documents recording the details of any bank account". Mr Milner argues that this provision extends to the account name and number only and would not extend to details of financial movements on identified accounts. I do not accept that the clause is so limited. The Order extends not just to account name and number, but to all other details of the account, including money movements.
+
+The Defendants have already disclosed a number of bank statements, as follows:
+
+a) relating to a sterling account held with Lloyds Bank (17714460). As at 3 March 2014, there was a credit balance of £10,000 on that account. Nothing has been disclosed since.
+b) Relating to a US$ bank account held with Citadele Bank (LV31 PARX 0012 8611 40001) which had a credit balance of $6,000 on 15 April 2014. Nothing has been disclosed since.
+c) Relating to a Euro bank account held with Citadele Bank which had balance of €3,000 on 19 March 2014. Nothing has been disclosed since.
+The First Defendant has disclosed a single statement for a bank account at Turon Bank in Tashkent. The statement shows financial movement from 25 November 2014 to 26 May 2015, but there is nothing since then. A column on the statement headed "Payment Purpose" shows that significant sums have been paid out in cash to replenish Visa cards of individuals. In his Sixth Affidavit he gives some explanation of the Visa cards; I make no finding about the Visa cards (there is insufficient information to enable me to do so). The important point is that the Turon Bank statements to date are missing.
+
+I am sure that there must be documents which post-date those referred to above. But none have been disclosed. The Defendants are in continuing default in relation to disclosure of the details of these bank accounts.
+
+(3) Real Property. In the original disclosure given by the Defendants (before the 21 May 2015 Order), the Third Defendant provided a disclosure statement dated 17 April 2014, in which he listed his assets, including references to the Zemledelchesky property, a building at Spiridonovka and 6 cottages and 6 plots of land at Lesnaya Street. In relation to all these properties, the First Defendant said that he had a "potential contingent interest". But no documents at all have been disclosed in relation to any of them. Mr Gunning invites me to conclude that such documents must exist, and should have been disclosed. Mr Milner suggests that such "potential contingent interests" fall short of being "a legal or beneficial interest in property" within the terms of the 21 May 2015 Order, so that disclosure of related documents is not required. That submission is incorrect, given the wide terms of the Order, and in particular (e) and (f) which require disclosure of all documents recording the "entitlement" of the Defendants to real or any other property, which clearly extends even to a "potential contingent interest". I am sure that "potential contingent interests" in land would have been documented, in some way. Such documents fall within the 21 May 2015 Order, and should have been disclosed.
+
+In his Sixth Affidavit, the First Defendant asserts that the originals of the relevant property documents are held by Voronin DB, his former lawyer and representative, and that is why they have not been disclosed (he refers to originals only). He goes on to say that his claims to these properties should now be excluded from the statements of assets. This is unacceptable. The reason the Claimant seeks disclosure of these documents is that they relate to properties listed in the First Defendant's own statement of assets. I am sure that there are documents – copy or original – relating to those interests. If those interests, some or all, have now been lost, I am sure there will be documents explaining or recording that. If the documents are held by third parties, I would have expected to see some evidence that the First Defendant had tried to obtain them in order to comply with the 21 May 2015 Order, but there is no such evidence before me. I therefore conclude that the First Defendant is in continuing default in relation to these documents.
+
+(4) Chemical Consult Corp. On 19 March 2013, the Second Defendant received a payment of US$ 5.4m into its account with Citadele. On 19 April 2013, the Second Defendant paid out US$ 4.2m to Chemical Consult Corp for steel products; the contract and accompanying invoice showed a price of US$920-950 per tonne charged by Chemical Consult Corp to the Second Defendant. (I note that the worldwide freezing order had been made on 14 March 2013.) The First Defendant was questioned about this transaction at a hearing before Mr David Donaldson QC sitting as a deputy High Court judge on Friday 13 June 2014. The First Defendant said that Chemical Consult Corp was connected with "Ulsanor" (a mistranscription for Arcelor, being Arcelor Mittal), that Chemical Consult Corp had supplied fixtures, pipes and metal structures to the Second Defendant, and that Arcelor had directed the Second Defendant to buy from Chemical Consult Corp. Subsequently, the Claimant contacted Arcelor Mittal. That company confirmed that it had no knowledge of or connection with the First or Second Defendant, or Chemical Consult Corp (see email exchange dated 27 November 2014); further, the company said that the particular consignment referenced had been supplied by Arcelor Mittal to Energy Machine LLP at a price of US$ 475-575 per tonne. Energy Machine LLP is owned by Albert Galimov, who has submitted a witness statement dated October 2015 in these proceedings, in which he attests to his friendship and business dealings with the First Defendant, and his ownership of Energy Machine LLP.
+
+The point made by Mr Gunning is that if, as appears, the steel was originally purchased by Energy Machine from Arcelor Mittal for US$475-575 per tonne, and was then sold to Chemical Consult Corp, which company then sold it to the Second Defendant at a price of US$920-950 per tonne, you would expect some evidence or documentation to show the negotiations on price, at the very least, or to explain why the Second Defendant was prepared to pay a price so far inflated above the price at which the same materials were available direct from the manufacturer. Mr Milner seeks to persuade me that I cannot be sure that any such documents exist. I am not so persuaded. I am sure that a transaction of this size between the Second Defendant and Chemical Consult Corp would have been preceded by some negotiation on price before it was executed; and I would expect to see documentary evidence of that, particularly given the very high price which was in the end paid by the Second Defendant for the steel, which was significantly out of line with market prices at the time. In his Sixth Affidavit, the First Defendant suggests that Chemical Consult Corp acted as agent for the Second Defendant: if so, the points above can be made with even more conviction. There must be documents evidencing the price negotiations, and (now) the agency arrangements. These documents should have been disclosed.
+
+(5) Synecta: finally, the schedule of assets filed by the First Defendant on 17 April 2014 included the First Defendant's "right to a bonus of 25% of the profits" of the Synecta group of companies. At the time of the freezing order, the First Defendant held a number of shares in this group of companies, but he transferred those shares to companies owned by Mr Juris Savickis in May 2013, shortly after the freezing order was made. Mr Savickis has submitted a witness statement in this action (dated 28 October 2015) in which he says that the shares were always owned beneficially by him or his companies, and that he required the First Defendant to make the transfer in May 2013.
+
+The existence of Synecta documents is confirmed by Katerina Woolhouse, in her second statement dated 6 August 2015 in support of the Defendants' application to extend time for compliance with the 21 May 2015 Order, and to limit the scope of that Order as it applied to what she said was the "main category" of documents, namely the Synecta documents. She said in that statement that there was a large volume of documents which had been generated by the 21 May 2015 Order. The Defendants' application was refused by Master Leslie. So the position is, as confirmed by Ms Woolhouse, that the documents exist, and they have still not been disclosed.
+
+The First Defendant acknowledges that a "vast number" of Synecta documents exist in his Fifth Affidavit. He now says that they belong to the Synecta companies and he has no power to provide copies, and that "to the extent that any documents referring to the Synecta companies are within my custody, power or control, these have already been disclosed". Mr Milner invites me to understand from this that the First Defendant does not have any Synecta documents in his control beyond those already disclosed, but I am unable to accept that submission, given that the whole point of the (failed) application to extend time and to limit Synecta disclosure was that the First Defendant did have a vast number of these documents in his control, which were due for disclosure within the terms of the 21 May 2015 Order. The First Defendant suggests that Mr Savickis, who beneficially owns the Synecta companies directly or via his companies, does not wish the First Defendant to disclose the documents, and indeed Mr Savickis says in his witness statement (28 October 2015) that he does not wish details of his assets, including the Synecta companies, to be disclosed in these proceedings. But there is no suggestion of any legal impediment to that disclosure; indeed, a certain amount of information in relation to these companies has already been disclosed, and what is sought under the 21 May 2015 Order is intended to complete the picture. The First Defendant's Sixth Affidavit repeats much of what has been said before about Synecta, raising nothing new, and not giving any reason to doubt that documents relating to Synecta do exist, they fall within the 21 May 2015 Order, and should have been disclosed by the Defendants.
+
+In conclusion, I am sure that the Defendants are in continuing breach, at least in the respects outlined above. I reject the First Defendant's assertion that he has fully complied (or complied so far as he can).
+
+In light of that conclusion, I hardly need to go on to consider what significance the First Defendant's decision not to give oral evidence might have in relation to my overall evaluation of the First Defendant's case. It is very clear that there are substantial gaps in the disclosure provided to date by the First Defendant. But the fact is that the matters covered in the First Defendant's Fifth and Sixth Affidavits are all matters of fact, within the First Defendant's knowledge. If those matters were being explained truthfully, I would have expected the First Defendant to give evidence to me in person and submit to cross examination, to demonstrate that he really had done everything possible to comply with the 21 May 2015 Order. He did not do that. The fact that the First Defendant did not give evidence, despite his availability for the hearing, does him no credit at all, and I draw an adverse inference against him. The fact that he then put in a Sixth Affidavit, after the hearing, making a number of assertions, supports that adverse inference. The First Defendant is trying to avoid being cross examined. The obvious, adverse, inference to draw is that he is not telling the truth: he knows he has not disclosed all that he can.
+
+Contemnor Abroad
+
+Finally, I deal with a point raised by Mr Milner, as to the utility (or lack of utility) in imposing any sentence on the First Defendant given that he is currently abroad and has no permission to return to this jurisdiction. I do not accept that the imposition of a sentence is futile. The Court cannot just stand by in the face of disobedience to its orders, just because the contemnor is outside the jurisdiction. The fact that a committal order has been made will be public, and may have reputational or business consequences for the First Defendant and his companies; it will not be meaningless. Further still, the Claimant is entitled to point to the breaches of the 21 May 2015 Order, and to seek committal as a step towards eventual compliance, which still remains possible. This is not a redundant exercise.
+
+Disposal
+
+I will sentence at a separate hearing. I invite the parties to agree directions for such a hearing, including time estimate, or to apply to Court if directions cannot be agreed.
+
+BAILII: Copyright Policy | Disclaimers | Privacy Policy | Feedback | Donate to BAILII
+URL: https://www.bailii.org/ew/cases/EWHC/QB/2015/3327.html

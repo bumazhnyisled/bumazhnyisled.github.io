@@ -1,0 +1,234 @@
+ 
+ EWCA-Civil 
+ 2014 
+ 313 
+ [2014] EWCA Civ 313 
+ 0.26.10 
+ 4bb6df1717ed1c1399605b09159c70a729af20d9e9332979eb63ebdda16861d6 
+ 6.0.2 
+#judgment { font-family: 'Times New Roman'; font-size: 12pt; }
+#judgment .Normal { font-size: 12pt; }
+#judgment .Heading1 { font-weight: bold; font-family: Arial; font-size: 16pt; }
+#judgment .CoverText { text-align: right; text-decoration-line: underline; text-decoration-style: solid; font-size: 12pt; }
+#judgment .CoverMain { font-weight: bold; text-decoration-line: underline; text-decoration-style: solid; font-size: 12pt; }
+#judgment .Header { font-family: Univers; font-size: 12pt; }
+#judgment .Footer { font-family: Univers; font-size: 12pt; }
+#judgment .CoverDesc { text-align: center; font-weight: bold; font-size: 18pt; }
+#judgment .ParaHeading { font-size: 12pt; }
+#judgment .ParaLevel1 { text-align: justify; margin-left: 0.5in; font-size: 12pt; }
+#judgment .ParaLevel2 { text-align: justify; margin-left: 0.98in; font-size: 12pt; }
+#judgment .ParaLevel3 { text-align: justify; margin-left: 1.48in; font-size: 12pt; }
+#judgment .ParaLevel4 { text-align: justify; margin-left: 1.97in; font-size: 12pt; }
+#judgment .ParaLevel5 { text-align: justify; margin-left: 2.46in; font-size: 12pt; }
+#judgment .ParaLevel6 { text-align: justify; margin-left: 2.95in; font-size: 12pt; }
+#judgment .ParaLevel7 { text-align: justify; margin-left: 3.45in; font-size: 12pt; }
+#judgment .ParaLevel8 { text-align: justify; margin-left: 3.94in; font-size: 12pt; }
+#judgment .ParaLevel9 { text-align: justify; margin-left: 4.43in; font-size: 12pt; }
+#judgment .ParaNoNumber { text-align: justify; font-size: 12pt; }
+#judgment .Quote { text-align: justify; margin-left: 1in; margin-right: 1in; font-size: 12pt; }
+#judgment .Title { text-align: center; font-weight: bold; font-size: 10pt; }
+#judgment .eMailBlock { text-align: center; font-weight: bold; font-size: 13pt; }
+#judgment .BalloonText { font-family: Tahoma; font-size: 8pt; }
+#judgment .Heading1Char { font-weight: bold; font-size: 16pt; }
+#judgment .HeaderChar { font-size: 12pt; }
+#judgment .FooterChar { font-size: 12pt; }
+#judgment .PageNumber { font-size: 10pt; }
+#judgment .QuoteChar { font-style: italic; font-size: 12pt; color: #404040; }
+#judgment .TitleChar { font-weight: bold; font-size: 16pt; }
+#judgment .Hyperlink { text-decoration-line: underline; text-decoration-style: solid; color: #0000FF; }
+#judgment .BalloonTextChar { font-family: 'Segoe UI'; font-size: 9pt; }
+ Case No: A2/2013/1013 
+ Neutral Citation Number: [2014] EWCA Civ 313 
+ IN THE COURT OF APPEAL (CIVIL DIVISION) 
+ ON APPEAL FROM THE HIGH COURT OF JUSTICE
+ QUEENS BENCH DIVISION
+ MR JUSTICE LEGGATT
+ [2013] EWHC 491 (QB) 
+ Royal Courts of Justice
+ Strand, London, WC2A 2LL
+ Date: 20/03/2014 
+ Before : 
+ LADY JUSTICE BLACK 
+ LORD JUSTICE TREACY 
+ and 
+ LORD JUSTICE CHRISTOPHER CLARKE 
+ - - - - - - - - - - - - - - - - - - - - -
+ Between : 
+ VIS TRADING CO. LTD (AN INTERNATIONAL BUSINESS COMPANY INCORPORATED IN BELIZE) 
+ Claimant/ Respondent 
+ - AND - 
+ (1)
+ AVAZ SAIDOVICH NAZAROV 
+ (2)
+ ANSOL LIMITED (A LIMITED COMPANY INCORPORATED IN GUERNSEY) 
+ Defendant 
+ Defendant/Appellant 
+ - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - -
+ Alexander Gunning QC (instructed by Watson, Farley & Williams LLP ) for the Respondent 
+ Alexander Milner (instructed by Clyde & Co LLP ) for the Appellant 
+ Hearing date: 11 th March 2014
+ - - - - - - - - - - - - - - - - - - - - -
+ Judgment
+ LORD JUSTICE CHRISTOPHER CLARKE: 
+ 1.
+ The parties to this litigation were described by Leggatt J in the following terms:
+ “ 5 The claimant, VIS, is a company incorporated in Belize which is controlled by Mr Vorobyev. Mr Vorobyev is a Russian businessman who, until he recently retired, was active in the fishing industry. VIS carried on a fishing business in South Korea. 
+ 6
+ Mr Nazarov is a citizen of Tajikistan where he became a successful businessman mainly as a result of trading with the Tajik Aluminium Plant ("TadAZ"). He also built up substantial business interests in Russia. As described below, Mr Nazarov's fortunes suffered a major setback in December 2004 when his business relationship with TadAZ was terminated. He subsequently became involved in litigation against TadAZ and OJSC Russian Aluminium ("Rusal"). Since December 2004 Mr Nazarov has been resident in England. 
+ 7
+ Ansol, a company incorporated in Guernsey, is controlled by Mr Nazarov and is the principal company through which his business activities are conducted. Mr Nazarov is the sole director of Ansol. 
+ 8
+ The third defendant, OJSC Sotsinvestbank ("SIB"), is a Russian bank in which Mr Nazarov held a controlling interest from 2003 until he lost control of SIB in January 2008. 
+ 9
+ The fourth defendant, Mr Neverov, is the former General Director of SIB. ”
+ 2.
+ This is an appeal brought by Ansol against the decision of the judge that there was a contract between it and VIS, whereby it undertook to guarantee that certain loans would be repaid in accordance with a specified timetable.
+ 3.
+ The background to the making of the loans is a complicated one which is fully explained in the judgment. For present purposes it is sufficient to record the basic details.
+ The 4 February 2005 loans 
+ 4.
+ On 4 February 2005 two loan agreements were made between VIS and a company, incorporated in Nevada, called Orange Alloy Industry LLC which was controlled by Mr Nazarov. One was for $ 4 million and the other was for $ 5 million. Each loan was for a period of six months and was secured by a promissory note payable on 9 August 2005 for the amount of the loan including interest.
+ The 5 July 2005 loan 
+ 5.
+ On 5 July 2005 VIS loaned a Panamanian company called Chansler S.A. (“Chansler”) $ 5 million for six months against the security of a pledge from Albamet Corporation Ltd, a BVI company (“Albamet”). Chansler was another company controlled by Mr Nazarov. The most likely reason for the loan being made to Chansler was that on 13 May 2005 TadAZ had obtained freezing orders against Mr Nazarov, Ansol and others. The pledge was of a group of properties in the Moscow region known as the Ivanovskoye village which was, or had been, Mr Nazarov’s family home. In the event the security proved worthless because the contract of sale of the village between Ansol and Albamet was declared void at the suit of one of Ansol’s creditors. The pledge had never been registered, as Russian law required, because Mr Nazarov instructed Mr Voronin, his then lawyer, not to do so.
+ 6.
+ On 9 August 2005 the two February loans were extended, by agreement with Mr Vorobyev, by six months. New agreements were drawn up and new promissory notes provided.
+ The 2 November 2005 loan agreement 
+ 7.
+ On 2 November 2005 a new loan agreement was entered into between VIS and Chansler. This replaced the February agreement for the loan of $ 5 million. Under it VIS agreed to lend Chansler $ 5,295,202.26 (the amount due under the February 2005 loan with interest) repayable on 1 July 2006, and agreed to transfer to Chansler the promissory note which VIS had for the February $ 5 million loan. In its place Chansler agreed to pledge to VIS the office premises in Moscow where Ansol’s offices were located. This security in turn proved worthless because, again the pledge was, on Mr Nazarov’s instructions, never registered. In the summer of 2007 the premises were transferred from Chansler to Akster Trade Limited (“Akster”), another Nazarov controlled company. Akster then sold them to a Mr Rustimov by a contract dated 15 October 2007.
+ The extension of the loans 
+ 8.
+ The period of the July 2005 and November 2005 loans was extended by a series of supplemental agreements. The last pair of these was dated 1 December 2007 and extended the repayment date to 1 March 2008. The February loan for $ 4 million was extended informally on seven occasions by the surrender of the promissory note held by VIS as security and its replacement with a new one. The promissory notes provided on or about 7 February 2006 and on all subsequent occasion were in the name of Prince Trade Ltd, another company controlled by Mr Nazarov.
+ 9.
+ In December 2007 Mr Vorobyev had indicated that one condition for extending the repayment date of the July and November 2005 loans until 1 March 2008 was that the promissory note which VIS held as security for the February 2005 loan should be redeemed when it matured on 25 December 2007.
+ 10.
+ On that day Mr Vorobyev provided the promissory note to Mr Gryakalov, the head of the Moscow branch of Ansol until 21 August 2007, and who carried on working for Ansol until about July 2008. He presented it to the bank. Later that day, through Mr Gryakalov, an agreement was reached between Mr Vorobyev and Mr Nazarov whereby payment would be deferred until 10 January 2008 on the basis that the bank would issue a new promissory note payable on 10 January 2008 to a company called JEPPPE Holdings Ltd for an amount including interest up to that date. JEPPPE was a company controlled by Mr Nefedov, a mutual friend of Mr Vorobyev and Mr Nazarov, who acted as an intermediary between them from time to time. It was chosen for convenience, as it had a bank account with SIB whereas VIS did not.
+ 11.
+ The new promissory note was delivered and at some time between 10 and 18 January 2008 it was presented for payment to the bank but dishonoured. On 18 January 2008 Mr Vorobyev wrote to Mr Nazarov to tell him of this and urged him to resolve the situation. He also reminded him of the total outstanding debts, in addition to the JEPPPE promissory note. These were described as “ loans provided to Ansol in 2005 against pledge of immovable property ” amounting to some $ 14.61 million. This was a reference to the July and November 2005 loans.
+ The 10 January 2008 agreement 
+ 12.
+ This led to Ansol entering into a written loan agreement with VIS backdated to 10 January 2008 under which Ansol undertook to repay the amount of the JEPPPE note with interest no later than 1 March 2008.
+ 1 March 2008 
+ 13.
+ So it was that on 1 March 2008 all three loans – the July 2005 loan, the November 2005 loan, and the amount due under the agreement dated 10 January 2008 – became due for repayment. 
+ 14.
+ The sequence of events thereafter is described in the following paragraphs of the judge’s judgment:
+ “ 85 In April 2008 Mr Vorobyev called Mr Gryakalov and asked him to speak to Mr Nazarov to find out when the loans were going to be repaid. Mr Nazarov replied that he was going to pay all his debts within a month and invited Mr Gryakalov and Mr Nefedov to come to London to discuss the matter. They did so, and had two meetings with Mr Nazarov at which he said that he was expecting to receive a substantial sum from his litigation with TadAZ which he would use to repay Mr Vorobyev. However, nothing further came of this. 
+ 86
+ From late 2007 onwards, Mr Gryakalov produced statements for Mr Nazarov periodically which showed the total amount of what was described as the debt of Ansol to Mr Vorobyev and gave a breakdown of the amount outstanding in respect of each of the three loans. The statement dated 1 August 2008 contained a note at the bottom of the page: "Mr Vorobyev asks that this debt be repaid very urgently". 
+ 87
+ Some time after November 2008, Mr Vorobyev was told by Mr Nefedov that Mr Nazarov had reached a settlement with TadAZ but had not obtained any money from those proceedings. Mr Vorobyev asked Mr Nefedov to look into how he could go about enforcing the pledges of the Ivanovskoye cottage village and the Office Premises. Mr Nefedov spoke to Mr Voronin and found out that the cottage village was no longer owned by Albamet and that the Office Premises were no longer owned by Chansler so that the security promised for the July 2005 loan and the November 2005 loan had in each case proved to be illusory. 
+ 88
+ On 24 March 2009 Mr Vorobyev wrote a letter to Mr Nazarov congratulating him on the completion of the court proceedings in London and stating: 
+ “I hope that the financial aid, which I have been rendering to you during the last five years has played an important role in this. 
+ A difficult situation which my company is currently facing due to the continuing economic crisis allows me to remind you of your debt, which amounts to US$23,844,020.44. 
+ I do hope you are understanding and in favour of a positive resolution on this matter already in April 2009.” 
+ 89
+ At around the time this letter was sent, Mr Nefedov had a meeting with a friend of Mr Nazarov called Mr Khaitaliyev and an in-house lawyer for Ansol named Ms Tatyana Krivosheyeva to discuss arrangements for repayment of the debt. Following that meeting Mr Nefedov and Mr Khaitaliyev each telephoned Mr Gryakalov and asked him to prepare "reconciliation reports" recording the debt outstanding as of 1 April 2009. 
+ 90
+ Mr Gryakalov prepared two reconciliation reports. The first showed the amount outstanding as of 1 April 2009 for the July 2005 loan, which was US$8,628,691.15, and for the November 2005 loan, which was US$8,696,019.12 (as well as an amount of US$395,000 due under another loan made by Mr Vorobyev on 1 February 2001 which is not the subject of these proceedings). The second reconciliation report showed the amount outstanding as of 1 April 2009 for the January 2008 loan, which was US$6,124,310.17. The combined total debt shown in the two reconciliation reports was the amount of US$23,844,020.44 referred to in Mr Vorobyev's letter of 23 March 2009. 
+ 91
+ Copies of the reconciliation reports were sent to Mr Nazarov (via Mr Khaitaliyev). The reconciliation reports were intended to be signed by VIS and by Mr Nazarov on behalf of Ansol to confirm the amount of the debt. 
+ 92
+ On 7 April 2009 Ms Krivosheyeva sent an email to Ansol's finance director, Anna Osadchaya, attaching three draft agreements (all dated 1 April 2009). Agreement No.1 was a draft agreement between VIS and Ansol whereby Ansol would pay the amounts outstanding under the July 2005 loan agreement, the November 2005 loan agreement and the earlier loan agreement dated 1 February 2001. The draft agreement provided for the principal sum to be paid by 1 January 2010 and interest to be paid evenly on a quarterly basis during 2010. Draft Agreement No.2, also between VIS and Ansol, provided for payment on a similar time scale of the amount due under the JEPPPE promissory note. (This draft agreement appears to have overlooked the fact that the indebtedness under the JEPPPE promissory note had been replaced by the January 2008 loan agreement.) Agreement No.3 related to a separate loan made by Mr Nefedov to Mr Nazarov in December 2002 which is not the subject of this action. Apart from an unsupported assertion made by Mr Nazarov which I do not accept, there was no evidence to suggest that these draft agreements were ever sent to anyone outside Ansol. ”
+ 15.
+ On 24 April 2009 Mr Nazarov wrote a letter, on Ansol notepaper, to Mr Vorobyev, which contains what are said to be the terms of the contract now relied on. It reads as follows:
+ “ I would like thank you sincerely for that assistance you have provided to me in my very difficult situation. Please believe that I remember and will always remember what you have done for me, that you have not turned back on when it was very easy to do. 
+ You are probably aware that the legal proceedings in London (burdensome both in financial and moral terms) were over in November 2008. I always believed that the completion of these proceedings would provide me for an opportunity to start working beneficially and repay the debt of gratitude to the people, who are loved ones to me, not only in word but in deed. 
+ I do believe that my hopes will be realised. But likely not so fast as I expected. The world financial crisis which you are certainly aware of not from hearsay has hit a real blow to all economy sectors, including the ones in which I have interests. With this regard, I am forced once again to ask you for deferment. However, I am confident that I will be able to start payments starting from September this year from the funds which should be received as payments for electricity (electricity will be delivered to Kazakhstan). With this regard, I guarantee a payment of at least $2,250,000.00 each month and plan to repay the principal amount by the end of January 2010; I will be able to pay interest within the second quarter of 2010. Certainly, I have got additional funds I will surely use them to make early payments to you. 
+ I am aware that this proposal does not provide you for financial resources so needed currently. However, it is not my intention to give promises to you which I am not capable to fulfil. As for electricity, this is a real contract and a real asset which could be implemented. 
+ I would like to thank you once again for your continuous assistance and understanding. ”
+ 16.
+ Mr Vorobyev did not reply to this letter. He decided, as the judge found, to wait in the hope and expectation of receiving the payments promised in it. None came.
+ 17.
+ Mr Gryakalov prepared further reconciliation reports which set out the amount of the indebtedness as of 1 June 2009. These documents were intended to be signed by a representative of VIS and by Mr Nazarov on behalf of Ansol. Mr Gryakalov provided these reports to Mr Nazarov at Mr Vorobyev’s request. Mr Nazarov received and signed them; but the signed reports were never sent to Mr Vorobyev or anyone acting as an intermediary between Mr Nazarov and him. 
+ 18.
+ On 16 November 2009 Mr Vorobyev wrote to Mr Nazarov as follows:
+ “ In June of this year, we sent you the Reconciliation Reports as of 1 June 2009. Mr Nefedov A.D. has advised me that you signed these Reconciliation Reports. However, neither Nefedov, nor I have received any counterpart signed. 
+ In your letter of 24 April 2009, you personally guaranteed me that you would start repaying the debt in September and complete the repayment in January 2010. Currently, we have not received any payments from you. Thus, you have not fulfilled your promises again. 
+ You know how much I need money at the beginning of each year. Please advise me as soon as practicable when you will perform your obligations and repay the debt with interest due. I do not intend any more to extend and restructure the debt, so please send the Reconciliation Reports signed by you; and I also demand that the debt should be repaid as soon as possible. ”
+ The judge’s findings 
+ 19.
+ The judge held that there was a contract between VIS and Ansol contained in the letter of 24 April 2009 whereby Ansol promised to repay whatever amount was outstanding under the three loan agreements by the dates specified in the letter i.e. starting in September with payment of at least $ 2,250,000 a month but with all the principal paid by the end of January 2010 and all interest by 30th June 2010.
+ 20.
+ Whether or not there was such a contract falls to be determined under Russian law. The judge set out the relevant provisions of the Russian Civil Code as follows:
+ “110
+ Article 161 of the Civil Code requires that transactions must be made "in simple written form". Pursuant to Articles 160(1) and 434(2) and (3) of the Civil Code, in the case of a bilateral transaction such as a contract this requirement may be satisfied either by a document signed by both parties or by an exchange of documents or in the manner provided by paragraph 3 of Article 438. It is the last of these methods on which VIS relies in the present case. 
+ 111.
+ Paragraph 3 of Article 438 provides: 
+ “3.
+ The taking by a person who has received an offer, within the period established for its acceptance, of actions in the performance of the terms of a contract indicated in it (shipment of goods, provision of services, performance of work, payment of the appropriate amount, etc.) shall be considered an acceptance unless otherwise provided by a statute, other legal acts, or indicated in the offer.” 
+ 112.
+ An “offer” is defined in Article 435(1) of the Civil Code as follows: 
+ “An offer is a proposal addressed to one or several specific persons, which is sufficiently certain and expresses the intention of the person making the proposal to consider himself bound by a contract with the addressee who will accept the proposal. 
+ An offer must contain the essential terms of the contract . ” 
+ 113.
+ The rules governing the interpretation of contractual documents are set out in Article 431 of the Civil Code. This states: 
+ “In the interpretation of the terms of a contract a court shall take into account the literal meaning of the words and expressions contained in it. The literal meaning of a term of a contract, in case the term is not clear, shall be established by comparison with the other terms and the sense of the contract as a whole. 
+ If the rules contained in the first part of the present Article do not allow the determination of the content of the contract, the real common will of the parties must be ascertained, taking into account the purpose of the contract. In such a case, all surrounding circumstances shall be taken into account, including negotiations and correspondence preceding the contract, the practice established in the mutual relations of the parties, the customs of commerce and the subsequent conduct of the parties” .”
+ 21.
+ Mr Alexander Milner for Ansol submits that the judge was wrong to find that there was any valid offer; or any valid acceptance thereof; and wrong to find that any contract was between VIS and Ansol.
+ Offer 
+ 22.
+ In order to constitute an offer the document relied on must be (a) sufficiently certain; (b) express an intention on the part of the offeror to consider himself bound by a contract with an addressee who accepts the proposal; and (c) contain the essential terms: Article 435 (1).
+ 23.
+ In my judgment the letter of 24 April 2009 qualifies as an offer in all three respects. Mr Milner contended that it was not sufficiently certain because it did not clearly identify (a) who was making the offer (Ansol or Mr Nazarov); (b) who the offer was being made to (Mr Vorobyev or VIS); (c) who was to be the obligor (Ansol or Mr Nazarov); and (d) what exactly was the payment obligation. 
+ 24.
+ The letter is not to be construed in a vacuum but by reference to the circumstances in which it was written: Article 431. These were that there were three outstanding loans, treated as in reality the responsibility of Ansol, whose terms were well known, as was the amount outstanding – not least because monthly statements had been rendered, the statement for 1 April 2009 recording outstandings of US $ 23,844,020.44. Demands had been made for payment which was well overdue. In those circumstances a request for deferment made by Mr Nazarov on Ansol notepaper is properly to be regarded as a request for deferment made on behalf of the company treated as liable for the loans to the creditor under those loans.
+ 25.
+ The letter is of course written in individualistic terms ( “I am forced once again to ask you”/”I am confident that I will be able”/ “I guarantee a payment of”/”I will be able to pay interest”/”not my intention to give promises to you which I am not capable to fulfil” ). But the companies concerned are, on both sides, emanations of the individuals behind them. Thus when Mr Vorobyev wrote on 24 March 2009 he referred to the financial aid “ which I have been rendering to you during the last five years ” when it was his company which had done so. When he also referred to “ your debt, which amounts to $ 23,844,020.44 ” he was not referring to a personal debt of Mr Navarov. Further the statements referred to in para 86 of the judgment [para 14 above] and the reconciliation statements, which vouch this figure, refer to Ansol as the debtor and VIS as the creditor. In those circumstances the letter of 24 April 2009 may readily be regarded as an offer by Ansol to VIS. It is accepted that the only realistic alternative is that it was an offer by Mr Nazarov to Mr Vorobyev. This seems markedly less likely in the circumstances.
+ 26.
+ Nor do I regard the nature of the obligation as unclear. Mr Milner submitted that it was unclear whether the proposal was to pay the amount outstanding under the loan whenever it fell due; or the amount outstanding in accordance with the schedule contemplated by the letter; or the amount outstanding as at the date of the letter or some other amount. I regard this as an illusory difficulty. The letter was plainly intended to cover the whole of the debt, principal and interest, and specified the payment program. I do not regard the reference to a “ plan ” to cover the principal by the end of January and Mr Nazarov being “ able ” to pay interest within the second quarter as meaning that the only obligation was to pay $ 2,250,000 at least per month, the remainder of the letter being only an aspiration. The offer is a composite whole. The “ promises ” which Mr Nazarov says that it is his intention to give embrace the time for repayment of principal and interest referred to in the earlier sentence.
+ 27.
+ The judge’s decision that the promise was to pay in accordance with the timetable in the letter was more favourable to Ansol than a decision that it was bound to pay the amounts under the loans as they fell due. The damages under the former basis represented the amount that would have been received if the promise had been honoured at the date when or by which the relevant amounts should have been received with interest under the statute from that date; rather than the much greater interest of 15% provided for in the loan agreements.
+ Intention to be bound 
+ 28.
+ The letter reveals an intention to be bound by the offer contained in it. It contains clear words of promise (“ I guarantee a payment..”/”..it is not my intention to give promises to you which I am not capable to fulfil ”).
+ 29.
+ Mr Milner submitted that the uncertainties of the letter and the way in which the parties had acted previously suggested that there was no intention on the part of Mr Nazarov (or Mr Vorobyev) that it should amount to any form of contract. Ansol’s intention was that any agreement should be in written form: hence the drafts which it prepared.
+ 30.
+ I do not accept this. The words of promise are clear. The letter does not contemplate further drafting. Further the parties did not always conduct their legal relations by agreements in writing signed on each side. Thus the first February 2005 loan was superseded by a rolling series of promissory notes without accompanying formal agreements. Further since January 2008 there had been no formal agreements concerning the liabilities of Chansler or Ansol to VIS.
+ Acceptance 
+ The Appellant’s submissions 
+ 31.
+ Mr Milner submits as follows. There was no valid acceptance. Article 438(3) makes it clear that only the taking of “ action ” that is indicated in the offer letter can amount to an acceptance. The letter, he submits, did not indicate any action. In any event none took place. All that happened was that Mr Vorobyev did nothing. Silence cannot amount to an acceptance save in limited circumstances, which are not said to arise in this case. That is apparent from Article 438(2) which provides:
+ “2
+ Silence is not acceptance, unless otherwise follows from a statute, custom of commerce, or from prior business relations of the parties”. 
+ 32.
+ Forbearance cannot amount to acceptance and, in the present case, the forbearance which is relied on is indistinguishable from silence and that is not enough.
+ 33.
+ The receipt by Mr Nazarov of the reconciliation reports in June 2009 could not amount to an acceptance. They were, as were their predecessors, nothing more than a statement of the amount due by way of principal and interest as at that date. They were equally consistent with an acceptance or a refusal of deferment.
+ Discussion 
+ 34.
+ I do not agree that there was no valid acceptance. The action which was sought was deferment. That is not the same as silence. It involves a decision not to continue to demand immediate payment of the amount outstanding, or to seek to enforce payment, but to hold off doing so for a period. Mr Vorobyev made that decision: see para 94 of the judgment.
+ 35.
+ The judge accepted that the mere fact that VIS did nothing for a while after receipt of the letter of 24 April 2009 did not amount to a deferment. It was ambivalent. But there came a time when it was apparent that VIS was agreeing a deferment. That time came when Mr Nazarov was sent a copy of the reconciliation sheet as at 1 June without any claim for immediate repayment. The demand made in the letter of 24 March 2009 for a “ positive resolution ” was not repeated; no step was taken to enforce payment of the amount outstanding; the reconciliation sheet for 1 June recorded the amount outstanding but without any request for immediate payment. That was, in my view, the taking of the action indicated in the offer. 
+ 36.
+ In para 134 of his judgment the judge said:
+ “ In my view, any conduct on the part of VIS which conveyed unequivocally that it agreed to the proposed deferment would be considered an acceptance of the offer for the purpose of Article 438(3) ”.
+ 37.
+ Mr Milner submitted that the judge was treating as an acceptance the communication of an agreement rather than the carrying out of an action, when Article 438 (3) is concerned only with the latter. What I take the judge to be saying was that conduct which indicated clearly that deferment was acceptable would amount to, or at any rate be evidence of, deferment and qualify accordingly. I agree.
+ 38.
+ The only expert evidence called was from Professor Maggs of the University of Illinois, College of Law. He expressed the view, which was not challenged, that partial performance or the beginning of performance could constitute acceptance so that forbearance for a substantial period of time would suffice. He also expressed the view that:
+ “Given that mere silence may constitute acceptance under Article 438(2) (quoted above) . I see no reason why forbearance, if requested in the offer, could not also be considered acceptance. In considering the application of Article 438(3), a Russian court would take into account the letter of November 16 2009, the email of December 2 2009 and the letter of February 1 2010 as evidence that the parties understood that the creditor’s forebearance was in acceptance of the debtor’s offer”. 
+ 39.
+ Mr Milner submits that Professor Maggs was clearly in error in drawing any support for the idea that forbearance could amount to acceptance from the fact that in limited circumstances silence could do so, given that those circumstances were not applicable to the present case.
+ 40.
+ That point is not without some substance. But it is far from conclusive. Silence and forbearance are not the same. I see, therefore, no good reason to reject Professor Maggs’ view, unchallenged in evidence or cross examination, that forbearance could constitute acceptance. It can in English law - see Chitty 31 st Ed Vol 1 para 2-076 (“ conduct can also take the form of forbearance ”) – and it is not apparent to me that there is any principle of Russian law that would dictate a different result. The fact that silence can in certain circumstances amount to acceptance may go no further than to show that the Russian Civil Code does not wholly rule out pure silence as sufficient acceptance. A fortiori something which is rather more than pure silence should not do so either.
+ Ambiguity as to the parties 
+ 41.
+ As appears above the judge was, in my view, right to treat the parties to the contract as being VIS and Ansol. This conclusion ought not to come as a surprise to Mr Nazarov. In paragraph 48 (c) of his and Ansol’s defence it was pleaded that by the letter of 24 April 2009:
+ “ ..Mr Nazarov, in the name and on behalf of Ansol, absolutely unambiguously proposed a possible scheme of repayment only of those loans which had been really received by Ansol from Mr Vorobyev and/or his companies ”
+ In para 49 it was pleaded that “ The letter of 24 th April 2009 was issued by Ansol rather than by Mr Nazarov .”
+ 42.
+ This defence, including these paragraphs, was supported by a statement of truth on the part of Mr Nazarov. The judge described him as a man of courtesy and charm but his evidence as on occasion palpably false. On this occasion, however, he spoke true.
+ 43.
+ For the reasons set out above, which are largely those of the judge, I would dismiss the appeal.
+ LORD JUSTICE TREACY
+ 44.
+ I agree.
+ LADY JUSTICE BLACK
+ 45.
+ I agree.
+ 

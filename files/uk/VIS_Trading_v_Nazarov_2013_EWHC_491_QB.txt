@@ -1,0 +1,163 @@
+ 
+ EWHC-QBD 
+ 2013 
+ 491 
+ [2013] EWHC 491 (QB) 
+ 0.26.8 
+ 5153a60240701b379ab0e7ffb0931bf037d486ecdd5d802cba576f58be9c5941 
+ 6.0.2 
+#judgment { font-family: 'Times New Roman'; font-size: 12pt; }
+#judgment .Normal { font-size: 12pt; }
+#judgment .Heading1 { font-weight: bold; font-family: Arial; font-size: 16pt; }
+#judgment .Heading3 { font-weight: bold; font-family: Arial; font-size: 13pt; }
+#judgment .CoverDesc { text-align: center; font-weight: bold; font-size: 18pt; }
+#judgment .CoverMain { font-weight: bold; text-decoration-line: underline; text-decoration-style: solid; font-size: 12pt; }
+#judgment .CoverText { text-align: right; text-decoration-line: underline; text-decoration-style: solid; font-size: 12pt; }
+#judgment .ParaHeading { font-size: 12pt; }
+#judgment .ParaLevel1 { text-align: justify; margin-left: 0.5in; font-size: 12pt; }
+#judgment .ParaLevel2 { text-align: justify; margin-left: 0.98in; font-size: 12pt; }
+#judgment .ParaLevel3 { text-align: justify; margin-left: 1.48in; font-size: 12pt; }
+#judgment .ParaLevel4 { text-align: justify; margin-left: 1.97in; font-size: 12pt; }
+#judgment .ParaLevel5 { text-align: justify; margin-left: 2.46in; font-size: 12pt; }
+#judgment .ParaLevel6 { text-align: justify; margin-left: 2.95in; font-size: 12pt; }
+#judgment .ParaLevel7 { text-align: justify; margin-left: 3.45in; font-size: 12pt; }
+#judgment .ParaLevel8 { text-align: justify; margin-left: 3.94in; font-size: 12pt; }
+#judgment .ParaLevel9 { text-align: justify; margin-left: 4.43in; font-size: 12pt; }
+#judgment .ParaNoNumber { text-align: justify; font-size: 12pt; }
+#judgment .Quote { text-align: justify; margin-left: 1in; margin-right: 1in; font-size: 12pt; }
+#judgment .Header { font-family: Univers; font-size: 12pt; }
+#judgment .Footer { font-family: Univers; font-size: 12pt; }
+#judgment .Heading { font-size: 12pt; }
+#judgment .Title { text-align: center; font-weight: bold; font-size: 10pt; }
+#judgment .eMailBlock { text-align: center; font-weight: bold; font-size: 13pt; }
+#judgment .Heading1Char { font-weight: bold; font-size: 16pt; }
+#judgment .Heading3Char { font-weight: bold; font-size: 13pt; }
+#judgment .QuoteChar { font-style: italic; font-size: 12pt; color: #404040; }
+#judgment .HeaderChar { font-size: 12pt; }
+#judgment .FooterChar { font-size: 12pt; }
+#judgment .TitleChar { font-weight: bold; font-size: 16pt; }
+ Case No: HQ10X00876 
+ Neutral Citation Number: [2013] EWHC 491 (QB) 
+ IN THE HIGH COURT OF JUSTICE 
+ QUEEN'S BENCH DIVISION 
+ Royal Courts of Justice
+ Strand, London, WC2A 2LL
+ Date: 27/03/2013 
+ Before :
+ MR JUSTICE LEGGATT 
+ - - - - - - - - - - - - - - - - - - - - -
+ Between : 
+ VIS TRADING CO. LTD 
+ Claimant 
+ - and - 
+ (1) AVAZ SAIDOVICH NAZAROV 
+ (2) ANSOL LIMITED 
+ (a limited company incorporated in Guernsey) 
+ (3) OPEN JOINT STOCK COMPANY SOTSINVESTBANK 
+ (a company incorporated in Russia) 
+ (4) DIMITRY NEVEROV 
+ Defendant 
+ - - - - - - - - - - - - - - - - - - - - -
+ - - - - - - - - - - - - - - - - - - - - -
+ Alexander Gunning QC (instructed by Watson, Farley & Williams LLP ) for the Claimant 
+ The First Defendant represented himself and the Second Defendant 
+ The Third and Fourth Defendants were not represented 
+ Hearing dates: 24-25, 28-31 January, 1 February and 8 March 2013
+ - - - - - - - - - - - - - - - - - - - - -
+ Judgment
+ Mr Justice Leggatt : 
+ 1.
+ Since handing down my Judgment in this case on 8 March 2013, I have received written submissions (and reply submissions) from the parties on consequential matters. This is my ruling on those matters.
+ Quantum – Mr Nazarov 
+ 2.
+ It is agreed that the total amount of the damages for which judgment is to be entered against Mr Nazarov should be US$12,266,522.53. 
+ Quantum – Ansol 
+ 3.
+ I have held that Ansol is liable to pay damages to VIS for breach of a contract by which Ansol agreed to repay the total debt owed to VIS on the terms of Mr Nazarov’s letter dated 24 April 2009. I indicated how I consider that in principle the damages should be calculated at paragraph 175 of my Judgment. VIS has prepared a calculation on that basis. This calculation shows that the amount of the loss caused by Ansol’s breach of contract was US$25,070,064.06.
+ 4.
+ Ansol does not dispute this calculation but argues that damages for this amount should not be awarded because it does not reflect the basis on which VIS has pleaded its case. Ansol points out that the contractual claim is pleaded as a claim for an agreed sum and that the relief claimed against it in the claim form and particulars of claim does not include damages. 
+ 5.
+ It should be noted that, on the way in which VIS has formulated its claim, the sum payable under the contract calculated as at 1 February 2013 (the date of closing submissions) was US$34,167,647.25. That is significantly higher than the amount for which, on what I consider to be the correct way of formulating the claim, VIS will obtain judgment against Ansol, even if interest were to be awarded on the damages at the rate claimed by VIS.
+ 6.
+ I see no merit in the argument that VIS is precluded by the fact that it has only claimed an agreed sum from recovering damages for breach of the contract (in a lesser amount). The terms of the contract are pleaded in paragraph 86 of the particulars of claim. Paragraph 87 contains an allegation of breach. As explained in the undisputed expert report of Professor Maggs (at paragraph 36) the financial remedy for breach of contract in Russian law as in English law is compensation in the form of damages for the loss caused by the breach. Ansol has had fair notice of the allegation of breach and of the legal consequence in Russian law of a breach of contract. The fact that the claim form and particulars of claim do not include a formal request for damages is a purely procedural error which has not caused any prejudice and does not prevent the appropriate remedy from being granted. This error should, however, be rectified by amending the claim form and particulars of claim. I will give permission for the necessary amendments to be made if suitable drafts are annexed to the draft order.
+ 7.
+ Judgment for damages should therefore be entered against Ansol in the sum of US$25,070,064.06. 
+ Interest 
+ 8.
+ VIS has claimed interest under section 35 A of the Senior Courts Act 1981 on all the principal sums found due to it calculated at the US prime rate. I indicated at paragraph 177 of my Judgment that I would need to be persuaded by evidence or authority that this is the appropriate rate.
+ 9.
+ VIS has cited the case of Fiona Trust and Holding Corp v Privalov [2011] EWHC 664 (Comm) , where Andrew Smith J stated (at paragraph 15):
+ “It has … become conventional, at least in the Commercial Court, for interest to be awarded at US Prime Rate on compensation awarded in US dollars: see, for example, Kinetics Technology v Cross Seas Shipping (“The Mosconici”) , [2001] 2 Lloyd’s Rep 313 at p.316 per David Steele J, Mamidoil-Jetoil Greek Petroleum Company SA v Okta Crude Oil Refiner, AD, [2003] 1 Lloyd’s Rep 42 at paragraph 16 per Aikens J and AXL Resources Ltd v Antares Underwriting Services Ltd & another, [2010] EWHC 3244 (Comm) per Gloster J. This rate was described by Langley J in Kuwait Airways v Kuwait Insurance , [2000] 1 All ER (Comm) 973 at p. 992d/e as “The nearest equivalent of base rate plus 1%” , and he considered that “in normal circumstances” US prime rate would be the appropriate rate for interest on a US dollars award. The court will depart from these conventional rates if it would be just to do so, and the burden of demonstrating this is upon the party who seeks to displace the conventional rate: Shearson Lehman Hutton Inc v Maclaine Watson & Co Ltd and ors (No 2) , ( loc cit ) at P. 733L per Webster J.”
+ 10.
+ Andrew Smith J went on to note (at paragraphs 17-18) that a different practice prevails in arbitrations, where LIBOR is more commonly used as a benchmark – at least where the claimant operates outside the United States. That is because commercial parties outside the United States are not accustomed to using the US prime rate as a reference point for loans, whereas LIBOR rates have acquired international recognition.
+ 11.
+ Mr Nazarov and Ansol have submitted that a more appropriate rate of interest to apply would be 1% above the 6 month US$ LIBOR rate. They argue that this is much more closely equivalent than the US prime rate to the rate of 1% above base rate which is conventionally used in the Commercial Court for sterling interest awards.
+ 12.
+ The purpose of an award of interest is to compensate the claimant for the loss of use of the principal sums owed. In the absence of proof of actual loss suffered, the assumption is made that the loss is fairly measured by the rate of interest which the claimant could reasonably been expected to pay to borrow an equivalent amount of money. As stated in Kuwait Airways v Kuwait Insurance [2000] 1 All ER (Comm) 973 at 991-2 and confirmed in Fiona Trust at paragraph 21, the appropriate rate for this purpose is that which would be charged for a short-term unsecured loan and should reflect the creditworthiness of the claimant. 
+ 13.
+ No evidence has been adduced in this case of the rate of interest which VIS (or a company with the general characteristics of VIS) could expect to pay on a short-term unsecured US dollar loan. VIS has provided information as to the base rates during the relevant period published by the Central Banks of South Korea (where VIS carried on business) and Russia (where Mr Vorobyev resides). However, those rates apply to currencies other than the US dollar and do not assist in establishing the rate at which VIS could have obtained a US dollar loan.
+ 14.
+ In my view, the 6 month US$ LIBOR rate is a more appropriate rate to use as a benchmark in a case of this kind than the US prime rate for the reason already indicated that LIBOR has become the most widely used benchmark outside the United States for lending denominated in US dollars. That is so not only in the shipping field but generally in international commerce.
+ 15.
+ At paragraph 20 of the Fiona Trust judgment Andrew Smith J quotes the following passage from a report approved by the Committee of the London Maritime Arbitrators Association (“LMAA”):
+ “To give effect to the principle that arbitrators are to ascertain the cost of a short-term unsecured loan, we recommend that members should award 2.5% over LIBOR as this would be a reasonable average rate to charge a reasonably creditworthy company for an unsecured loan. In special cases (depending on the creditworthiness depending on the plaintiff) a higher or lower uplift may be appropriate.”
+ 16.
+ In the Fiona Trust case itself, Andrew Smith J awarded an uplift of 2.5% over 3 month US$ LIBOR. He noted (at paragraph 22 of the judgment) as an additional reason why he considered this uplift appropriate that it involved little departure from the conventional US prime rate. 
+ 17.
+ I consider that a similar approach is appropriate in the present case. However, because the baseline being used is 6 month US$ LIBOR – which, as Mr Nazarov and Ansol have pointed out, tends to be slightly higher than 3 month US$ LIBOR – I will adopt a slightly lower uplift of 2.25%. The rate I award is therefore 2.25% above 6 month US$ LIBOR, which I consider fair for the following reasons:
+ (1)
+ It conforms with the recommendation made in the LMAA report and endorsed in the Fiona Trust case. Although expressed in the context of a maritime case, I see no reason to treat its relevance as confined to that field of commerce.
+ (2)
+ There was nothing in the evidence given at the trial to suggest that VIS is a company with a high degree of creditworthiness; if anything, the opposite.
+ (3)
+ An uplift of 2.25% produces a rate which is only a little below the US prime rate which has conventionally been adopted in commercial cases and which the burden lies on Mr Nazarov and Ansol to displace.
+ 18.
+ Calculated at the rate of 2.25% above 6 month US$ LIBOR, the spreadsheet supplied by VIS indicates that the amount of interest payable as at 27 March 2013 is US$3,149,489.03 in relation to the claim against Mr Nazarov and US$2,166,161.32 in relation to the claim against Ansol. The interest payable as at 27 March 2013 by SIB and Mr Neverov is US$898,957.08.
+ Costs 
+ 19.
+ VIS asks the court to order Mr Nazarov and Ansol to pay its costs of the action on the grounds that it is the successful party. 
+ 20.
+ Mr Nazarov and Ansol submit that VIS should be awarded no more than around 60% of its costs to reflect the fact that some of its pleaded claims failed. Of these, the most significant were the claims against Mr Nazarov relating to the Prince Trade promissory note. In addition, in the course of the trial VIS abandoned a claim against Ansol based on a guarantee allegedly given in December 2008 of the July 2005 loan.
+ 21.
+ VIS has responded that the claim under that guarantee was minor and that it was always going to be necessary to review the facts concerning the surrender of the Prince Trade promissory note in December 2007 in considering the contractual claim.
+ 22.
+ I consider that the order for costs should reflect the clear reality that VIS has been substantially successful. Not only has VIS succeeded on the contractual claim, which was its main claim and subsumes the claims in tort, but it has also succeeded on two of the three claims in tort against Mr Nazarov personally. There is no suggestion that Ansol or Mr Nazarov has ever made any admissible offer to settle or pay the claims or any part of them (apart from the offer which gave rise to the contract claim itself). It is common in litigation of any complexity for the claimant to fail on one or more of its claims without this necessarily resulting in any reduction in its recovery of costs. I also take account of the fact that I have found that Mr Nazarov was dishonest, not only in the conduct which gave rise to his liability in tort but also in his evidence given at the trial. In particular, considerable time was spent in investigating his assertions that he had no interest in or control over various companies, all of which assertions I found to be completely spurious. 
+ 23.
+ All that said, the factual issues relating to the Prince Trade promissory note were the focus of a significant amount of evidence and time spent at the trial. I do not accept that it would have been necessary to investigate those issues as part of the background for the contractual claim in anything like the depth in which they were explored. In those circumstances I think it appropriate to make a modest reduction in the costs awarded to reflect the fact the VIS did not succeed on those issues.
+ 24.
+ I have concluded that the overall justice of the case is met by an order making Mr Nazarov and Ansol jointly liable to pay 90% of the costs of the claims against them. 
+ 25.
+ Mr Nazarov and Ansol have submitted that the costs awarded against them should not include any of the costs attributable to the claims made by VIS against SIB and Mr Neverov. Those claims related to the surrender of the Prince Trade promissory note and subsequent dishonour of the JEPPPE promissory note. In reply, VIS has made the point that it would never have been necessary to bring the proceedings against either SIB or Mr Neverov if Ansol had performed the contract made in 2009. I accept this point in relation to Ansol. It does not apply, however, in relation the Mr Nazarov. I do not think that he can fairly be held personally responsible for the costs of suing SIB and/or Mr Neverov in circumstances where the claims relating to the promissory notes have failed against him.
+ 26.
+ In relation to these costs, I therefore draw a distinction between Mr Nazarov and Ansol. As between Mr Nazarov and Ansol, Ansol alone and not Mr Nazarov, will be liable for the costs of the claims against SIB and Mr Neverov. SIB and Mr Neverov have already been found liable for the costs of the default judgements obtained against them. They are also liable to pay the Claimant’s costs of the assessment of damages and interest against them.
+ Payment on Account of Costs 
+ 27.
+ VIS has asked for an order for a payment on account of costs in the sum of £550,000. Mr Nazarov and Ansol have not sought to dispute that such an order is appropriate either in principle or in amount. I am satisfied that it is just to make this order. 
+ Permission to Appeal 
+ 28.
+ Mr Nazarov has applied for permission to appeal on the issue of whether what I have found were his wrongful acts in deliberately depriving VIS of the security promised for the July 2005 loan and the November 2005 loan caused loss to VIS. I think it quite clear that they did and regard Mr Nazarov’s argument to the contrary as hopeless for the reasons indicated in paragraph 145 in my Judgment. I therefore refuse Mr Nazarov’s application.
+ 29.
+ Ansol has applied for permission to appeal on two issues relating to the contractual claim for which I have given judgment against it.
+ 30.
+ The first issue is whether Mr Nazarov’s letter of 24 April 2009 was sufficiently certain to amount to a contractual offer. Ansol observes that there is a difference between the interpretation of the letter for which VIS contended and what I concluded was the proper interpretation of the letter. Ansol seeks to argue that this difference of view gives rise to real doubt as to whether the letter really was sufficiently certain to give rise to a contract at all.
+ 31.
+ The interpretation contended for by Ansol was that Ansol had offered to take over the borrower’s liabilities under the three loan agreements. My view, as stated at paragraph 175 of the Judgment, is that the obligation which Ansol undertook was to guarantee that those loans would be repaid by the dates specified in the letter. I do not consider that the fact that I rejected the interpretation contended for by VIS – which would have given rise to a greater liability and which has not been espoused by Ansol – provides any realistic basis for arguing that the letter was too uncertain to have contractual effect at all.
+ 32.
+ The second issue which Ansol wishes to pursue on appeal is whether, assuming that the letter contained any valid offer, that offer was accepted in the manner described by Article 438(3) of the Russian Civil Code. Ansol submits that it is strongly arguable that the letter did not indicate any action which could constitute acceptance of the offer and that nothing could therefore amount to an acceptance of the offer which satisfied the requirements of Article 439(3).
+ 33.
+ On this point I came to a clear view that the request made in the letter “for deferment” indicated that any action (or inaction) which unequivocally conveyed that VIS agreed to deferment on the terms proposed would constitute acceptance of the offer and that Article 438(3) of the Russian Civil Code was therefore satisfied. Whilst I do not exclude the possibility that another judge might disagree with that view, I am not able to conclude myself that an appeal on this point has a realistic prospect of success.
+ 34.
+ I therefore also refuse Ansol’s application for permission to appeal.
+ 35.
+ I grant the extension of time requested by Mr Nazarov and Ansol for filing any Appellant’s Notice until 21 days after the date of the order.
+ Stay of Execution 
+ 36.
+ Mr Nazarov and Ansol have requested a stay of execution of the judgment pending an application to the Court of Appeal for permission to appeal and, if permission is granted, until the determination of the appeal. They submit in particular that, if and to the extent that any appeal succeeds, it will be virtually impossible for Mr Nazarov or Ansol to recover any payments that have been made to VIS in the interim.
+ 37.
+ VIS has not sought to advance any positive argument against a stay of execution and I am satisfied that there should be a stay of execution for the reasons given by Mr Nazarov and Ansol. The fact that VIS has obtained a post-judgment worldwide freezing order against Mr Nazarov and Ansol gives VIS protection for its claims pending the determination of any appeal.
+ 38.
+ The stay of execution should be in the form proposed by VIS at paragraph 24 of its reply submissions, with liberty to apply.
+ Form of Order 
+ 39.
+ I would ask the parties to submit an agreed draft order to give effect to this ruling. Although not strictly necessary, it is appropriate that the order should contain the text at paragraph 2 of the draft order annexed to the submissions of Mr Nazarov and Ansol. The date of the order will be the date on which this ruling is handed down.
+ 
